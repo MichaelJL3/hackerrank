@@ -9,5 +9,6 @@ however i only tested these new ones I never
 submitted them
 
 # progress
-only finished transcribing the warmup problems
+instead of putting up my old solutions I keep
+solving a bunch of random new ones LOL o(~_~)o 
 this may take a while

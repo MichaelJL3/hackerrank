@@ -1,0 +1,6 @@
+
+RPC works between two processes. These processes may be:
+
+c - both (a) and (b) 
+	a > on the same computer 
+	b > on different computers connected with a network

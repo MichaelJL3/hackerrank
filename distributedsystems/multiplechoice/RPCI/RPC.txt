@@ -1,0 +1,6 @@
+
+#They couldve easily made an assignment using protobuf why do this
+
+An RPC (remote procedure call) is initiated by the:
+
+b - client
